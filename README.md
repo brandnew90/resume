@@ -55,5 +55,6 @@
 
 ## Contact
 Jorge Luis Pérez Ermel
+brandnewmail.90@gmail.com
 Whatsapp/Call +52 8332341171
 GitHub: @brandnew90
