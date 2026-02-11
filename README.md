@@ -1,4 +1,4 @@
-# brandnew90
+# Jorge Luis Pérez Ermel "brandnew90"
 **Full Stack Developer**
 
 ---
@@ -54,4 +54,6 @@
 ---
 
 ## Contact
+Jorge Luis Pérez Ermel
+Whatsapp/Call +52 8332341171
 GitHub: @brandnew90
